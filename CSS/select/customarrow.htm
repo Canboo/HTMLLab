@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>custom arrow</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <style>
+        .type {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+        }
+        .type-a {
+            background: url("arrow.png") 100% / 15% no-repeat #fff;
+            background-size: auto 100%;
+        }
+        .type-b {
+            background: url("favicon.ico") 96% / 15% no-repeat #eee;
+            background-size: auto 80%;
+        }
+        select::-ms-expand {
+            display: none; /* ie10 and ie11 */
+        }
+    </style>
+</head>
+<body>
+    <h1 class="text-center">custom arrow</h4>
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-4">
+                <h2>Normal</h2>
+                <select class="form-control">
+                    <option value="">item01</option>
+                    <option value="">item02</option>
+                    <option value="">item03</option>
+                </select>
+            </div>
+            <div class="col-4">
+                <h2>Icon 1</h2>
+                <select class="form-control type type-a">
+                    <option value="">item01</option>
+                    <option value="">item02</option>
+                    <option value="">item03</option>
+                </select>
+            </div>
+            <div class="col-4">
+                <h2>Icon 2</h2>
+                <select class="form-control type type-b">
+                    <option value="">item01</option>
+                    <option value="">item02</option>
+                    <option value="">item03</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

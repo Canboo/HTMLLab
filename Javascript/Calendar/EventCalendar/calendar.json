@@ -10,11 +10,6 @@
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi."
             },
             {
-                "name": "Day 1: Boxing Match",
-                "location": "MSG Garden",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi."
-            },
-            {
                 "time": "11:00am",
                 "location": "Tamghas, Nepal"
             }
@@ -27,18 +22,6 @@
                 "name": "Day 5: Soccer Match",
                 "time": "9:00am",
                 "location": "Randalls Island",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi."
-            },
-            {
-                "name": "Day 5: Boxing Match",
-                "time": "10:00am",
-                "location": "MSG Garden",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi."
-            },
-            {
-                "name": "Day 5: Soccer Match",
-                "time": "11:00am",
-                "location": "Tamghas, Nepal",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi."
             }
         ]
